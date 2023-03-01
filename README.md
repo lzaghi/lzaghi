@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzaghi&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzaghi&layout=compact&theme=react)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzaghi&layout=compact&theme=react)
