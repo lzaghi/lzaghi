@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzaghi&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzaghi&count_private=true&show_icons=true&theme=react)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzaghi&layout=compact&theme=react)
